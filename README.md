@@ -1,7 +1,10 @@
 # Studying-React
 
-<img src="https://nitter.net/pic/media%2FFNSt4BIUUAE1Tng.jpg%3Fname%3Dsmall" width="500" alt="짤방" />
+<br/>
 
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FFzu2L%2FbtrQUBH76F7%2F6FfTNS4yIxOidZIsz5yK50%2Fimg.png" width="500" alt="짤방" />
+
+<br/>
 <br/>
 
 ## Repo Informations
