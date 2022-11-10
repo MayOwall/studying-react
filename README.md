@@ -62,6 +62,6 @@
 
 <br/>
 
-### 📁 React 2022 개정판 ( 생활코딩 )
+### [📁 React 2022 개정판 ( 생활코딩 )](https://github.com/MayOwall/studying-react/tree/main/react2022_lifeCoding)
 
 `2022.11.10` ~
