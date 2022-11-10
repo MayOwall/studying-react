@@ -1,5 +1,9 @@
 # Studying-React
 
+<img src="https://nitter.net/pic/media%2FFNSt4BIUUAE1Tng.jpg%3Fname%3Dsmall" width="500" alt="짤방" />
+
+<br/>
+
 ## Repo Informations
 
 ### 레포지토리 계기
