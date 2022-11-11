@@ -43,7 +43,7 @@
 #### Last Update
 
 `2022.11.11`<br/>
-(계속하여 추가될 예정)
+(계속해서 업데이트될 예정)
 
 <br/>
 
@@ -64,4 +64,15 @@
 
 ### [📁 React 2022 개정판 ( 생활코딩 )](https://github.com/MayOwall/studying-react/tree/main/react2022_lifeCoding)
 
-`2022.11.10` ~
+<br/>
+
+#### 학습 기간
+
+`2022.11.10` ~ `2022.11.11`
+
+<br/>
+
+#### [수업 후기 (ง˙∇˙)ว](https://github.com/MayOwall/studying-react/blob/main/react2022_lifeCoding/0.%20%EC%88%98%EC%97%85%20%ED%9B%84%EA%B8%B0.md)
+
+> 생활코딩님의 React 2022 강의를 듣고 작성한 후기.<br/>
+> 해당 강의가 나에게 어떨지 궁금한 사람들에게 필요할 글
