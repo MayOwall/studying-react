@@ -1,11 +1,11 @@
-import Counter from "./Counter";
-import Say from "./Say";
+import EventPractice1 from "./EventPractice1";
+import EventPractice2 from "./EventPractice2";
 
 const App = () => {
     return (
         <>
-            <Counter />
-            <Say />
+            <EventPractice1 />
+            <EventPractice2 />
         </>
     );
 };
