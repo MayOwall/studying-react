@@ -1,10 +1,12 @@
-import MyComponent from "./MyComponent";
+import Counter from "./Counter";
+import Say from "./Say";
 
 const App = () => {
     return (
-        <MyComponent name="오월컴포넌투" favoriteNumber={8}>
-            리액트
-        </MyComponent>
+        <>
+            <Counter />
+            <Say />
+        </>
     );
 };
 
