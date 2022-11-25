@@ -22,5 +22,3 @@ const TodoListItem = ({ todo, onRemove, onToggle }) => {
 };
 
 export default TodoListItem;
-
-//젭라 되어라
