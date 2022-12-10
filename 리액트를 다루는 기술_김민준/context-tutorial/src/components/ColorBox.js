@@ -16,7 +16,6 @@ const ColorBox = () => {
         style={{
           width: "32px",
           height: "32px",
-          background: state.subcolor,
         }}
       />
     </>
